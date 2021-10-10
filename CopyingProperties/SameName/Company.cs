@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace CopyingProperties
+namespace CopyingProperties.SameName
 {
     public class Company
     {

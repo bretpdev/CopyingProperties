@@ -1,4 +1,4 @@
-﻿namespace CopyingProperties
+﻿namespace CopyingProperties.SameName
 {
     public class Person
     {
