@@ -23,6 +23,12 @@ namespace CopyingProperties
             WriteLine("");
             WriteLine("");
             new Attributes.ProcessAttributes().Start();
+            WriteLine("");
+            WriteLine("");
+            new ExtensionSameName.ProcessExtensionSameName().Start();
+            WriteLine("");
+            WriteLine("");
+            new ExtensionAttribute.ProcessExtensionAttribute().Start();
 
             ReadKey();
         }

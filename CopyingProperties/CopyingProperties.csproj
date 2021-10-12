@@ -55,6 +55,14 @@
     <Compile Include="UsingAttributes\Employee.cs" />
     <Compile Include="UsingAttributes\Person.cs" />
     <Compile Include="UsingAttributes\ProcessAttributes.cs" />
+    <Compile Include="UsingExtensionAttribute\Company.cs" />
+    <Compile Include="UsingExtensionAttribute\Employee.cs" />
+    <Compile Include="UsingExtensionAttribute\Person.cs" />
+    <Compile Include="UsingExtensionSameName\Company.cs" />
+    <Compile Include="UsingExtensionSameName\Employee.cs" />
+    <Compile Include="UsingExtensionSameName\Person.cs" />
+    <Compile Include="UsingExtensionSameName\ProcessExtensionAttribute.cs" />
+    <Compile Include="UsingExtensionAttribute\ProcessExtensionSameName.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
